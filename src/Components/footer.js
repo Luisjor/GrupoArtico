@@ -19,9 +19,15 @@ export default function Footer() {
                     <div>
                         <b>Síguenos</b>
                         <div className='socialscontainer'>
-                        <i class="fa-brands fa-facebook"></i>
-                        <i class="fa-brands fa-instagram"></i>
-                        <i class="fa-brands fa-whatsapp"></i>
+                            <a href='https://www.facebook.com/GrupoArticonstrucciones'>
+                                <i class="fa-brands fa-facebook"></i>
+                            </a>
+                            <a href='https://www.instagram.com/grupoarti.co/'>
+                                <i class="fa-brands fa-instagram"></i>
+                            </a>
+                            <a href='https://wa.me/523121943269'>
+                                <i class="fa-brands fa-whatsapp"></i>
+                            </a>
                         </div>
                         
                     </div>
